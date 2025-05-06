@@ -6,24 +6,10 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
-- For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+- For each visualization, describe and justify:
+- 
+- The Excel was used to generate the visualization. It's mainly for the traffic control department, but also for the public to understand the trending for the cycling status in Toronto. The visualization includes the average daily data of the bicycle counts from 1994 Jun to 2025 Mar for each month, and also the in total counting each year. I did necessary cleaning to remove repetible data and trafserd missing data to N/A to avoid misunderstanding. Otherwise, the only calculation used was average and visualized with PivotTable function in Excel. The minimal calculation helps the visualization reproducible. The data was published online with reviewed on the City of Toronto’s Open Data Portal (https://open.toronto.ca/dataset/permanent-bicycle-counters/). By showing the clear data range I used, it can be easily reproduced and accesssible. Traffic control department may be impacted by my visuialization to decide if they need to set more bicycle routes and set necessary signs to remind vichles drivers to notice bicycle drivers to avoid potential accidents. This can also be used to show to the vistors which weather is suitable to ride a bicycle to make a city tour.  I choose to use the heatmap and include counts, year and month. Since by including the day will make the visulization too conmplex and I still need to learn more to build an interactive visualization to include more details. The data was collected by the sensors that were set in the only bicycle routes. It includes bicycles and other micromobility devices including e-bikes, scooters, and e-scooters. But for the riders on the sidewalk, in motor-vehicle lanes, or in painted buffer zones were excluded. Many detectors were not active from 2019 to 2022 and have since been replaced. Since 2022, sensors have been calibrated based on manual counts. Checks are done periodically to verify calibration. Data from older detectors that have since been replaced have been validated using historic data where available. That are the "UNderwater labour" behind the dataset.
 
-    > Who is your intended audience? 
-    
-    > What information or message are you trying to convey with your visualization? 
-    
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
-    > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
-    > What ‘underwater labour’ contributed to your final data visualization product?
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
