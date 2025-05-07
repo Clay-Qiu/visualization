@@ -1,0 +1,8 @@
+1. data was been cleaned to Remove Duplicates with Data function in Excel.
+2. Extract Month from dt column with the formula =TEXT(dt, "mmm") and  fill all rows with autofill function.
+3. Extract Year from dt column with the formula =YEAR(dt) and  fill all rows with autofill function.
+4. Create PivotTable with all dataset and set Rows: Year, Columns: Month, Values: daily_volume (set to Average).
+5. Add the Title.
+6. Set the Average volume to only show the integer with the function of the Data Format.
+7. Set the color within the Excel, Home > Conditional Formatting > Color Scales to choose the color scales.
+8. Export the visualization to pdf version.
