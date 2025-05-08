@@ -10,7 +10,11 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good Data Visualization https://public.tableau.com/app/profile/westlake.cjw/viz/ScotlandatMurrayfield/Murrayfield. It shows the match results of the Murrayfield match.
+      Generally, for data visualization of the match results, we want to know the match scores, participating teams, date, milestone. This visualization perfectly shows them.
+      It use dark color to label the win games, light with the lose. The length for each bar shows the score range. The different colors are used to label the different competition sources, which make the visualization easily to understand by anyone.
+      The wonderful thing is that it labels the milestone and explanations. It also provides the chance that if we want to know details of specific game, we can simply click the game bar and it will be highlighted and show information.
+      Overall, I classfy this as a good visualization for the data they showed.
 
 
 
@@ -21,7 +25,12 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Here is a data visualization which I believe is bad and can be improved: https://public.tableau.com/app/profile/chimdi.nwosu/viz/MakeoverMondayWk45-InternetAccessAcrosstheWorld_2003to2022/Dashboard1. It shows the internet access rate across the world from 2003-2022.
+      First, it has lots of meaningless icon that we can click. After click, it either shows no change or highlight without any further detailed instroduction.
+      In this visualization, it has too many elements and make it hard to understand. For example, there are four clubs in it, but if we click any club's legened at thte bottom, nothing changes.
+      It's better that using a heatmap with countries name and the color range to show their access rate and give us a chance to set the filter to only see specific area.
+      If we change to the Access by Income Groups, it doesn't shows where the definiation of the different income groups comes from and the principle behind it.
+      The right down corner, there is a figure allows us to do the comparision only between the USA and other areas or groups. It's better to allow us to set the comparision between any groups we want.
 
 
 
